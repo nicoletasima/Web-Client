@@ -3,7 +3,7 @@
 	Sima Nicoleta-Lavinia
 
 
-	Pentru realizarea temei in C am ales sa folosesc biblioteca parson
+Pentru realizarea temei in C am ales sa folosesc biblioteca parson
 pentru parsarea payload-ului in format JSON deoarece mi s-a parut foarte 
 usor de folosit in urma parcurgerii tutorialului de pe github.
 	Am folosit fisierele si functiile din cadrul laboratorului 10. 
