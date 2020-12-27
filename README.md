@@ -61,11 +61,3 @@ cookie-ul de login. Afisez mesajul de logout pentru logarea realizata cu succes.
 	- Ultima ramura este pentru cazul in care comanda introdusa nu este valida. 
 Programul va rula in continuare prin afisarea unul mesaj care demonstreaza
 acest lucru si permiterea intrducerii unei comenzi valide.
-
-
-Timp aproximativ de lucru: aproximativ 10 ore deoarece in prima faza mi-a fost dificil sa inteleg
-cum functioneaza biblioteca de parsare precum si notiuni ca token-ul JWT. Nu am intampinat multe
-dificultati dupa ce am inteles cum functioneaza protocolul. Tema aceasta m-a ajutat foarte
-mult sa inteleg mai bine notiunile din cadrul laboratorului 10 deoarece la momentul
-la care am participat la laborator nu mi-a fost foarte clar cum are loc comunicarea cu serverul.
-Tema in sine mi-a placut si nu mi s-a parut greu de realizat comparativ cu celelalte 2 teme.
